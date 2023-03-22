@@ -10,7 +10,7 @@
 #include <BlynkSimpleEsp32.h>
 
 //รหัสเชื่อมต่อ Line token
-#define LINE_TOKEN "jcLaNOzMv1YZocKizQf0Al10HtDJ1veqlSjE4jBQNTS"
+#define LINE_TOKEN ""
 
 
 // You should get Auth Token in the Blynk App.
