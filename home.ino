@@ -19,8 +19,8 @@ char auth[] = "hheMIjaxdt37oSNlrZsGLK1iuIKmC_W9";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "jangasivi";
-char pass[] = "0614646485";
+char ssid[] = "";
+char pass[] = "";
 
 WidgetLCD lcd(V0);
 
